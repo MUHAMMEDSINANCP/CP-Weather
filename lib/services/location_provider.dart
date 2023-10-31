@@ -6,6 +6,7 @@ import 'package:geolocator/geolocator.dart';
 class LocationProvider with ChangeNotifier {
   Position? _currentPosition;
   Position? get currentPostion => _currentPosition;
+
   final LocationService _locationService = LocationService();
 
   Placemark? _currentLocationName;
@@ -42,7 +43,7 @@ class LocationProvider with ChangeNotifier {
     }
 
     _currentPosition = await Geolocator.getCurrentPosition();
-    //print(_currentPosition);
+    print(_currentPosition);
 
     _currentLocationName =
         await _locationService.getLocationName(_currentPosition);

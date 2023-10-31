@@ -36,14 +36,9 @@ dependencies:
   http: ^1.1.0
   intl: ^0.18.1
   provider: ^6.0.5
+  timezone: ^0.9.2
 
 dev_dependencies:
-
-  # The "flutter_lints" package below contains a set of recommended lints to
-  # encourage good coding practices. The lint set provided by the package is
-  # activated in the `analysis_options.yaml` file located at the root of your
-  # package. See that file for information about deactivating specific lint
-  # rules and activating additional ones.
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
@@ -60,12 +55,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/img/
-    - assets/json/
     - assets/fonts/
 
-
-    
- 
   fonts:
     - family: Roboto
       fonts:
@@ -74,6 +65,5 @@ flutter:
           weight: 700
         - asset: assets/fonts/Roboto-Italic.ttf
           style: italic
-  #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

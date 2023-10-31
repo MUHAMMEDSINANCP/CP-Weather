@@ -9,7 +9,8 @@ class LocationService {
             position.latitude, position.longitude);
 
         if (placemarks.isNotEmpty) {
-          return placemarks[0];
+          return placemarks[1];
+          // i changed the plaace mark index from [0] to [1]
         }
       } catch (e) {
         print("Error fetching location name");
@@ -17,5 +18,6 @@ class LocationService {
 
       return null;
     }
+    return null;
   }
 }

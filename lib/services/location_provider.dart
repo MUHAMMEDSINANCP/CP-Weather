@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 import 'package:cp_weather/services/location_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:geocoding/geocoding.dart';

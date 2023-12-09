@@ -1,3 +1,5 @@
+// ignore_for_file: unused_field, unused_local_variable
+
 import 'package:cp_weather/data/image_path.dart';
 import 'package:cp_weather/services/location_provider.dart';
 import 'package:cp_weather/services/weather_service_provider.dart';
@@ -332,7 +334,7 @@ class _HomePageState extends State<HomePage> {
                                 ),
                               ],
                             ),
-                            CustomDivider(
+                            const CustomDivider(
                               startIndent: 20,
                               endIndent: 20,
                               color: Colors.white,

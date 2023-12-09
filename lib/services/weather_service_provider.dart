@@ -1,11 +1,8 @@
 // ignore_for_file: avoid_print
-
 import 'dart:convert';
-
-import 'package:cp_weather/secrets/api.dart';
+import 'package:cp_weather/secrets/api_keys.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
-
 import '../models/weather_response_model.dart';
 
 class WeatherServiceProvider extends ChangeNotifier {

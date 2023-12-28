@@ -1,6 +1,6 @@
 ## CP Weather
 
-CP Weather provides real-time weather updates, leveraging OpenWeatherMap API for accurate forecasts. Features include:
+CP Weather provides real-time weather updates, leveraging OpenWeatherMap API for accurate forecasts.   
 
 ### Key Features:
 

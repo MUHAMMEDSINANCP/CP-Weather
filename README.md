@@ -1,16 +1,19 @@
-# cp_weather
+## CP Weather
 
-A new Flutter project.
+CP Weather provides real-time weather updates, leveraging OpenWeatherMap API for accurate forecasts. Features include:
 
-## Getting Started
+### Key Features:
+Current Location Weather: Access to real-time weather at your current location.
+Sunrise & Sunset Times: Details on sunrise and sunset times.
+Temperature Range: Display of minimum and maximum temperatures.
+Location Search: Search and view weather details for other places.
 
-This project is a starting point for a Flutter application.
+### Technologies Used:
 
-A few resources to get you started if this is your first Flutter project:
+Provider for state management, clean architecture, Geolocator for location, OpenWeatherMap API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Usage:
+CP Weather ensures users stay informed about weather conditions at their location and other searched places, offering accurate and timely forecasts.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Feedback:
+For any suggestions or feedback, please contact us at cpmuhammedsinan@gmail.com. Your inputs are valuable for enhancing CP Weather.

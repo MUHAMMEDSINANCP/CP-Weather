@@ -4,13 +4,13 @@ CP Weather provides real-time weather updates, leveraging OpenWeatherMap API for
 
 ### Key Features:
 
-Current Location Weather: Access to real-time weather at your current location.
+Current Location Weather : Access to real-time weather at your current location.
 
-Sunrise & Sunset Times: Details on sunrise and sunset times.
+Sunrise & Sunset Times : Details on sunrise and sunset times.
 
-Temperature Range: Display of minimum and maximum temperatures.
+Temperature Range : Display of minimum and maximum temperatures.
 
-Location Search: Search and view weather details for other places.
+Location Search : Search and view weather details for other places.
 
 ### Technologies Used:
 

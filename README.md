@@ -21,3 +21,4 @@ CP Weather ensures users stay informed about weather conditions at their locatio
 
 ### Feedback :
 For any suggestions or feedback, please contact me at cpmuhammedsinan@gmail.com. Your inputs are valuable for enhancing CP Weather.
+ 
